@@ -1,0 +1,33 @@
+{
+  "name": "Name",
+  "version": "0.0.1",
+  "description": "description",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Dcalsky",
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "babel": "~5.6.23",
+    "babelify": "~6.1.3",
+    "browser-sync": "~2.8.0",
+    "browserify": "~11.0.0",
+    "gulp": "~3.9.0",
+    "gulp-autoprefixer": "~2.3.1",
+    "gulp-less": "~3.0.3",
+    "gulp-notify": "~2.2.0",
+    "gulp-shell": "~0.4.2",
+    "gulp-sourcemaps": "~1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "~3.0.6",
+    "jsxhint": "~0.15.1",
+    "pretty-hrtime": "~1.0.0",
+    "require-dir": "~0.3.0",
+    "vinyl-buffer": "~1.0.0",
+    "vinyl-source-stream": "~1.1.0",
+    "watchify": "~3.3.0"
+  }
+}
